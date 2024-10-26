@@ -1,4 +1,4 @@
-# blender-topology-check
+# (blender) polygon-checker
 Blender 4.2 geometry nodes project to check face vertices count
 
 ## Usage
